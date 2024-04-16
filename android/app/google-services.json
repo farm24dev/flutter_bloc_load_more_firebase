@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432398520244",
+    "project_id": "farm24dec-mork",
+    "storage_bucket": "farm24dec-mork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432398520244:android:a42b89c0f92e01a43eace1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cubit_loadmore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAARjzPQcG7IfBk3oZu0h_f0rY8HCabJ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
